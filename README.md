@@ -6,9 +6,7 @@
 
 ### Video funcional
 
-<video src="Evidencia%20Visual/Video%20Funcional.mp4" controls width="360">
-  El video funcional está disponible en la carpeta Evidencia Visual.
-</video>
+[![Video funcional de MoviApp](Evidencia%20Visual/video-funcional-preview.gif)](<Evidencia Visual/Video Funcional.mp4>)
 
 [Ver video funcional](<Evidencia Visual/Video Funcional.mp4>)
 
